@@ -1,6 +1,5 @@
 <template>
   <div class="main">
-    <h2>Sign up</h2>
     <form-sign-up></form-sign-up>
   </div>
 </template>
@@ -12,6 +11,7 @@
 
 <style lang="scss">
 .main {
-
+  display: flex;
+  align-items: center;
 }
 </style>
